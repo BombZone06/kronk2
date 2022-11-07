@@ -712,3 +712,4 @@ mySprite,
 250,
 true
 )
+controller.moveSprite(mySprite, 18, 100)
